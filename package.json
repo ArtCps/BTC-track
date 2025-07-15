@@ -1,0 +1,15 @@
+{
+  "name": "btc-tracker",
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-chartjs-2": "^5.0.0",
+    "chart.js": "^4.0.0",
+    "chartjs-adapter-date-fns": "^2.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  }
+}
